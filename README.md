@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohammadParsaTheFirst
-- 👀 I’m interested in ...
+- 👀 I’m interested in AI area, computer vision, signal processing and cryptograpgy.
 - 🌱 I’m currently studying EE at SUT 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
