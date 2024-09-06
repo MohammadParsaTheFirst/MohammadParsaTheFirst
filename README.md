@@ -7,6 +7,7 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 - High Dimensional Probability
 - Blockchain
 - Network Engineering
+- Algorithms
 
 Feel free to reach out to me at:
 - 📫 `mohammadparsadinithefirst@gmail.com`
