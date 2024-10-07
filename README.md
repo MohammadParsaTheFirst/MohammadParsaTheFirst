@@ -2,6 +2,7 @@
 
 I am **MohammadParsa Dini**, currently in my third year of Electrical Engineering at SUT. I am an AI enthusiast with interests in:
 - AI(GANs, ...)
+- Deep Generative Models
 - Graph Signal Processing
 - Information Theory
 - High Dimensional Probability
