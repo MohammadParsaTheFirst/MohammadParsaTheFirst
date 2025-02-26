@@ -1,13 +1,14 @@
 ## Hi there 👋
 
 I am **MohammadParsa Dini**, currently in my third year of Electrical Engineering at SUT. I am an AI enthusiast with interests in:
-- AI
+- AI, DL & Machine Learning 
 - Deep Generative Models
 - Graph Signal Processing
+- Image Restortion
 - Information Theory
 - High Dimensional Probability
-- Blockchain
-- Algorithms
+- Design Algorithms
+- Compressed Sensing
 
 Feel free to reach out to me at:
 - 📫 `mohammadparsadinithefirst@gmail.com`
