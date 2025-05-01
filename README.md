@@ -6,7 +6,7 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 - Graph Signal Processing
 - Image Restortion
 - Information Theory
-- High Dimensional Probability
+- [High Dimensional Probability](https://github.com/MohammadParsaTheFirst/High-dimensional-probability-analysis-course)
 - Design Algorithms
 - Compressed Sensing
 
