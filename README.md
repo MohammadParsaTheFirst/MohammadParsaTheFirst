@@ -11,7 +11,7 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 - [Compressed Sensing](https://github.com/MohammadParsaTheFirst/Compressed-sensing-course)
 
 Feel free to reach out to me at:
-- 📫 `mohammadparsadinithefirst@gmail.com`
+- 📫 `mohammadparsadinithefirst@gmail.com` or `m.parsa.dini@gmail.com`
 
 <!--
 **MohammadParsaTheFirst/MohammadParsaTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
