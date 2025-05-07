@@ -9,6 +9,7 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 - [High Dimensional Probability](https://github.com/MohammadParsaTheFirst/High-dimensional-probability-analysis-course)
 - Design Algorithms
 - [Compressed Sensing](https://github.com/MohammadParsaTheFirst/Compressed-sensing-course)
+- [Signal Processing](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab)
 
 Feel free to reach out to me at:
 - 📫 `mohammadparsadinithefirst@gmail.com` or `m.parsa.dini@gmail.com`
