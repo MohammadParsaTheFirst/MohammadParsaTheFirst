@@ -10,7 +10,8 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 - Design Algorithms
 - [Compressed Sensing](https://github.com/MohammadParsaTheFirst/Compressed-sensing-course)
 - [Signal Processing](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab)
-- Optimization 
+- Optimization
+
 Feel free to reach out to me at:
 - 📫 `mohammadparsadinithefirst@gmail.com` or `m.parsa.dini@gmail.com`
 
