@@ -12,6 +12,10 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 - [Signal Processing](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab)
 - Optimization
 
+My ongoing projects are:
+- Machine Unlearning in Generative Models
+- Adversarial Robustness in Generative AI
+
 Feel free to reach out to me at:
 - 📫 `mohammadparsadinithefirst@gmail.com` or `m.parsa.dini@gmail.com`
 
