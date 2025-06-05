@@ -22,6 +22,17 @@ Feel free to reach out to me at:
 <!--
 **MohammadParsaTheFirst/MohammadParsaTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+-----------------------------
+I will  be a great smart and hardowking person,
+not only i will do great things, but also i will 
+do great study, great job, great life! more importantly!
+i am worthy of everything 
+i am worthy of everything 
+i am worthy of everything 
+
+
+
+----------------------------
 
 
 Here are some ideas to get you started:
