@@ -11,6 +11,7 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 - [Compressed Sensing](https://github.com/MohammadParsaTheFirst/Compressed-sensing-course)
 - [Signal Processing](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab)
 - Optimization
+- [Computer Vision](https://github.com/MohammadParsaTheFirst/My-HWs/tree/main/Machine%20Vision%20LAB)
 
 My ongoing projects are:
 - Machine Unlearning in Generative Models
