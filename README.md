@@ -1,11 +1,6 @@
 ## Hi there 👋
 
 I am **MohammadParsa Dini**, currently in my third year of Electrical Engineering at SUT. I am an AI enthusiast with interests in:
-
-
-## 📚 My Interests
-
-| Column 1 | Column 2 |
 |----------|----------|
 | [Deep Learning](https://github.com/MohammadParsaTheFirst/Deep-learning-course) | [Information Theory](https://github.com/MohammadParsaTheFirst/Information-theory-statistics-learning-course) |
 | [Machine Learning](https://github.com/MohammadParsaTheFirst/Intro_to_Machine_Learning) | [High Dimensional Probability](https://github.com/MohammadParsaTheFirst/High-dimensional-probability-analysis-course) |
@@ -15,19 +10,6 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 | Optimization | [Computer Vision](https://github.com/MohammadParsaTheFirst/My-HWs/tree/main/Machine%20Vision%20LAB) |
 | [Neuroscience](https://github.com/MohammadParsaTheFirst/Neuroscience-course) | — 
 
-
-- AI, [Deep Learning](https://github.com/MohammadParsaTheFirst/Deep-learning-course) & [Machine Learning](https://github.com/MohammadParsaTheFirst/Intro_to_Machine_Learning)                            
-- [Deep Generative Models](https://github.com/MohammadParsaTheFirst/Deep-generative-models-course)
-- [Graph Signal Processing](https://github.com/MohammadParsaTheFirst/Graph-Signal-Processing)
-- Image Restortion
-- [Information Theory](https://github.com/MohammadParsaTheFirst/Information-theory-statistics-learning-course)
-- [High Dimensional Probability](https://github.com/MohammadParsaTheFirst/High-dimensional-probability-analysis-course)
-- Design Algorithms
-- [Compressed Sensing](https://github.com/MohammadParsaTheFirst/Compressed-sensing-course)
-- [Signal Processing](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab)
-- Optimization
-- [Computer Vision](https://github.com/MohammadParsaTheFirst/My-HWs/tree/main/Machine%20Vision%20LAB)
-- [Neuroscience](https://github.com/MohammadParsaTheFirst/Neuroscience-course)
 
 My ongoing projects are:
 - [Machine Unlearning in Generative Models](https://github.com/MohammadParsaTheFirst/unlearning_task)
