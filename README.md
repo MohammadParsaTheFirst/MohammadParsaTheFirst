@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am **MohammadParsa Dini**, currently in my third year of Electrical Engineering at SUT. I am an AI enthusiast with interests in:
-- AI, [Deep Learning](https://github.com/MohammadParsaTheFirst/Deep-learning-course) & [Machine Learning](https://github.com/MohammadParsaTheFirst/Intro_to_Machine_Learning) 
+- AI, [Deep Learning](https://github.com/MohammadParsaTheFirst/Deep-learning-course) & [Machine Learning](https://github.com/MohammadParsaTheFirst/Intro_to_Machine_Learning)                            - [Deep Generative Models](https://github.com/MohammadParsaTheFirst/Deep-generative-models-course)
 - [Deep Generative Models](https://github.com/MohammadParsaTheFirst/Deep-generative-models-course)
 - [Graph Signal Processing](https://github.com/MohammadParsaTheFirst/Graph-Signal-Processing)
 - Image Restortion
