@@ -5,12 +5,13 @@ I am **MohammadParsa Dini**, currently in my third year of Electrical Engineerin
 
 
 | [Deep Learning](https://github.com/MohammadParsaTheFirst/Deep-learning-course) | [Information Theory](https://github.com/MohammadParsaTheFirst/Information-theory-statistics-learning-course) |
-|----------|----------|
+|:----------------------------------:|:----------------------------------:|
 | [Machine Learning](https://github.com/MohammadParsaTheFirst/Intro_to_Machine_Learning) | [High Dimensional Probability](https://github.com/MohammadParsaTheFirst/High-dimensional-probability-analysis-course) |
 | [Deep Generative Models](https://github.com/MohammadParsaTheFirst/Deep-generative-models-course) | Design Algorithms |
 | [Graph Signal Processing](https://github.com/MohammadParsaTheFirst/Graph-Signal-Processing) | [Compressed Sensing](https://github.com/MohammadParsaTheFirst/Compressed-sensing-course) |
-|  Optimization | [Digital Signal Processing Lab](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab) |
-|  [Neuroscience](https://github.com/MohammadParsaTheFirst/Neuroscience-course) | [Computer Vision](https://github.com/MohammadParsaTheFirst/My-HWs/tree/main/Machine%20Vision%20LAB) |
+| Optimization | [Digital Signal Processing Lab](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab) |
+| [Neuroscience](https://github.com/MohammadParsaTheFirst/Neuroscience-course) | [Computer Vision](https://github.com/MohammadParsaTheFirst/My-HWs/tree/main/Machine%20Vision%20LAB) |
+
 
 
 
