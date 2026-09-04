@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **MohammadParsa Dini**, currently in my last year of Electrical Engineering at SUT. I am an AI enthusiast with interests in:
+I am **MohammadParsa Dini**, currently in my first year of  PhD at HKUST and ECE department. I am an AI enthusiast with interests in:
 
 
 
