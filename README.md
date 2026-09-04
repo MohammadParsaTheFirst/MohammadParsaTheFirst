@@ -6,7 +6,7 @@ I am **MohammadParsa Dini**, currently in my first year of  PhD at HKUST and ECE
 
 | [Deep Learning](https://github.com/MohammadParsaTheFirst/Deep-learning-course) | [Information Theory](https://github.com/MohammadParsaTheFirst/Information-theory-statistics-learning-course) |
 |:----------------------------------:|:----------------------------------:|
-| [Machine Learning](https://github.com/MohammadParsaTheFirst/Intro_to_Machine_Learning) | [High Dimensional Probability](https://github.com/MohammadParsaTheFirst/High-dimensional-probability-analysis-course) |
+| [Machine Learning](https://github.com/MohammadParsaTheFirst/Intro_to_Machine_Learning) | [High Dimensional Prob&Stat](https://github.com/MohammadParsaTheFirst/High-dimensional-probability-analysis-course) |
 | [Deep Generative Models](https://github.com/MohammadParsaTheFirst/Deep-generative-models-course) | [Deep RL](https://github.com/MohammadParsaTheFirst/Deep-reinforcement-learning-course/tree/main) |
 | [Graph Signal Processing](https://github.com/MohammadParsaTheFirst/Graph-Signal-Processing) | [Compressed Sensing](https://github.com/MohammadParsaTheFirst/Compressed-sensing-course) |
 | [Optimization](https://github.com/MohammadParsaTheFirst/Stochastic-optimization-course) | [Digital Signal Processing Lab](https://github.com/MohammadParsaTheFirst/Digital-Signal-Processing-Lab) |
