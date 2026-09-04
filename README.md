@@ -17,10 +17,10 @@ I am **MohammadParsa Dini**, currently in my first year of  PhD at HKUST and ECE
 
 My ongoing projects are:
 - [Machine Unlearning in Generative Models](https://github.com/MohammadParsaTheFirst/unlearning_task)
-- Adversarial Robustness in Generative AI
+- Source localization
 
 Feel free to reach out to me at:
-- 📫 `mohammadparsadinithefirst@gmail.com` or `m.parsa.dini@gmail.com`
+- 📫 `m.parsa.dini@gmail.com` or `mdini@connectust.hk`
 
 <!--
 **MohammadParsaTheFirst/MohammadParsaTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
