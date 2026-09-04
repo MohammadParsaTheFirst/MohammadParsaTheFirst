@@ -20,7 +20,7 @@ My ongoing projects are:
 - Source localization
 
 Feel free to reach out to me at:
-- 📫 `m.parsa.dini@gmail.com` or `mdini@connectust.hk`
+- 📫 `m.parsa.dini@gmail.com` or `mdini@connect.ust.hk`
 
 <!--
 **MohammadParsaTheFirst/MohammadParsaTheFirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
